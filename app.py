@@ -84,7 +84,7 @@ st.markdown(html_temp,unsafe_allow_html=True)
 st.header("Text Review ")
   
   
-text = st.text_area("Writre Write text")
+text = st.text_area("Write text")
 
 if st.button("Sentiment Analysis"):
   result=review(text)
