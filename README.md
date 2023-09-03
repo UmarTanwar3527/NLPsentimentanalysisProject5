@@ -1,2 +1,0 @@
-# NLPsentimentanalysisProject5
-
